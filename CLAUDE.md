@@ -61,3 +61,5 @@ Frontend (musing-web) ←→ REST API (TODO) ←→ Backend (musing-py) ←→ P
 - **Frontend**: TypeScript strict, camelCase, shadcn/ui 패턴
 - **성능**: LLM 호출 최소화, useMemo로 트리 빌드 캐싱
 - **환경**: `.env`에 DATABASE_URL, OPENAI_API_KEY 설정
+
+### 김지민의 테스트
